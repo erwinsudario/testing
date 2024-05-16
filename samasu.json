@@ -1,11 +1,14 @@
 {
-  "name": "SANASUMO",
-  "symbol": "SMS",
-  "description": "samasumo chim chim chom",
-  "image": "https://github.com/erwinsudario/testing/blob/main/1-01.jpg",
-  "extensions": {
-    "website": "",
-    "twitter": "gaboy gaboy",
-    "telegram": "bombom"
+    "chainId": 101,
+    "symbol": "SMS",
+    "name": "SANASUMO",
+    "logoURI": "https://github.com/erwinsudario/testing/blob/main/1-01.jpg",
+    "tags": [
+      "community-token",
+      "meme-token"
+    ],
+    "extensions": {
+      "twitter": "https://twitter.com/rea",
+      "website": "https://redcaptoken.com/"
+    }
   }
-}
